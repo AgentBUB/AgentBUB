@@ -39,7 +39,7 @@
 
 ---
 
-### 📕 Spotify Status
+### 🎵 Spotify Status
 
 [![Spotify](https://novatorem-agentbub.vercel.app/api/spotify)](https://open.spotify.com/user/zufvilhzm5tvfwsrr4bbvxkgj)
 
@@ -56,7 +56,8 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AgentBUB)](https://github.com/anuraghazra/github-readme-stats)
+
 
 </details>
 

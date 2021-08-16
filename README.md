@@ -47,18 +47,19 @@
 
 ### 📊 GitHub Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AgentBUB)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AgentBUB&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
-<details>
-  <summary>:zap: Dev Status</summary>
-  
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+### 📚 Top Languages
 
-</details>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
+---
+
+### 🧮 Wakatime Week Status
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=agentbub&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [website]: https://agentsquad.org

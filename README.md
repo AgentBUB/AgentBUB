@@ -41,7 +41,7 @@
 
 ### 📕 Spotify Status
 
-[![Spotify](https://AgentBUB.vercel.app/api/spotify)](https://open.spotify.com/user/Toby)
+[![Spotify](https://agentbub.vercel.app/api/spotify)](https://open.spotify.com/user/Toby)
 
 ---
 

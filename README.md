@@ -45,6 +45,12 @@
 
 ---
 
+### 📊 GitHub Stats
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AgentBUB)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
 <details>
   <summary>:zap: Dev Status</summary>
   
@@ -53,13 +59,7 @@
 
 </details>
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
 
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AgentBUB)](https://github.com/anuraghazra/github-readme-stats)
-
-
-</details>
 
 [website]: https://agentsquad.org
 [asppartner]: https://partners.agentsquad.org

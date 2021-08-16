@@ -1,7 +1,7 @@
 ### Hi there, I'm Agent BUB - aka [The Owner of ASP][website] 👋
 
 [![Website](https://img.shields.io/website?down_color=red&down_message=Offline&style=for-the-badge&up_color=brightgreen&up_message=Online&url=https%3A%2F%2Fagentsquad.org)](https://agentsquad.org)
-[![Join the Discord](https://img.shields.io/discord/352577622103949312?style=for-the-badge)](https://discord.agentsquad.org)
+[![Join the Discord](https://img.shields.io/discord/352577622103949312?label=Discord&style=for-the-badge)](https://discord.agentsquad.org)
 
 ## I'm a Developer, Entrepreneur, and Student!!
 
@@ -41,12 +41,12 @@
 
 ### 📕 Spotify Status
 
-[![Spotify](https://AgentBUB.vercel.app/api/spotify)](https://open.spotify.com/user/AgentBUB)
+[![Spotify](https://zufvilhzm5tvfwsrr4bbvxkgj.vercel.app/api/spotify)](https://open.spotify.com/user/zufvilhzm5tvfwsrr4bbvxkgj)
 
 ---
 
 <details>
-  <summary>:zap: Recent GitHub Activity</summary>
+  <summary>:zap: Dev Status</summary>
   
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->

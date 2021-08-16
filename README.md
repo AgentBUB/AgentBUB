@@ -5,7 +5,7 @@
 
 ## I'm a Developer, Entrepreneur, and Student!!
 
-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
+- 🔭 I am working hard to build my [company][website]!!
 - 🌱 I’m currently learning how not to loose brain cells...
 - 👯 Both ASP and me are always looking for new partners ([ASP Partnership][asppartner])
 - 🥅 2021/2022 Goals: Better my development skills and grow the company

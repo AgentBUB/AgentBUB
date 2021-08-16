@@ -47,7 +47,7 @@
 
 ### 📊 GitHub Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AgentBUB&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
+[![Agent BUB's GitHub stats](https://github-readme-stats.vercel.app/api?username=AgentBUB&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
@@ -59,7 +59,7 @@
 
 ### 🧮 Wakatime Week Status
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=agentbub&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Agent BUB's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=agentbub&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [website]: https://agentsquad.org

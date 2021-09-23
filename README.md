@@ -60,7 +60,7 @@
 ### ☕ Buy me a coffee:
 [<img align="left" alt="By me a coffee | Agent BUB" width="452px" height="227px" src="https://img.buymeacoffee.com/api/?url=aHR0cHM6Ly9jZG4uYnV5bWVhY29mZmVlLmNvbS91cGxvYWRzL3Byb2ZpbGVfcGljdHVyZXMvMjAyMS8wOS81Y2JhYzc4MTU3ODJjNWUxMTIxMWM3MmYyMjZjOWU5ZS5wbmdAMzAwd18wZS53ZWJw&creator=Agent+BUB&is_creating=scripts,%20websites,%20and%20more!&design_code=1&design_color=%23FF5F5F&slug=agentbub" />][buymecoffee]
 
----
+
 
 [website]: https://agentsquad.org
 [abwebsite]: https://agentbub.com

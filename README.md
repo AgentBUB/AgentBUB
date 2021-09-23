@@ -1,4 +1,4 @@
-### Hi there, I'm Agent BUB - aka [The Owner of ASP][website] 👋
+### Hi there, I'm Agent BUB - [The Owner of ASP][website] 👋
 
 [![Website](https://img.shields.io/website?down_color=red&down_message=Offline&style=for-the-badge&up_color=brightgreen&up_message=Online&url=https%3A%2F%2Fagentsquad.org)](https://agentsquad.org)
 [![Join the Discord](https://img.shields.io/discord/352577622103949312?label=Discord&style=for-the-badge)](https://discord.agentsquad.org)
@@ -13,10 +13,10 @@
 
 ### Connect with me:
 
-[<img align="left" alt="agentsquad.org" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Agent BUB | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="Agent BUB | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="ASP | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="agentsquad.org" width="22px" src="https://icons.iconarchive.com/icons/google/noto-emoji-travel-places/512/42454-globe-with-meridians-icon.png" />][website]
+[<img align="left" alt="Agent BUB | YouTube" width="22px" src="https://icons.iconarchive.com/icons/marcus-roberto/google-play/64/YouTube-icon.png" />][youtube]
+[<img align="left" alt="Agent BUB | Twitter" width="22px" src="https://icons.iconarchive.com/icons/limav/flat-gradient-social/64/Twitter-icon.png" />][twitter]
+[<img align="left" alt="Agent BUB | Email" width="22px" src="https://icons.iconarchive.com/icons/limav/flat-gradient-social/64/email-icon.png" />][email]
 
 <br />
 
@@ -57,16 +57,18 @@
 
 ---
 
-### 🧮 Wakatime Week Status
+### ☕ Buy me a coffee:
+[<img align="left" alt="By me a coffee | Agent BUB" width="452px" height="227px" src="https://img.buymeacoffee.com/api/?url=aHR0cHM6Ly9jZG4uYnV5bWVhY29mZmVlLmNvbS91cGxvYWRzL3Byb2ZpbGVfcGljdHVyZXMvMjAyMS8wOS81Y2JhYzc4MTU3ODJjNWUxMTIxMWM3MmYyMjZjOWU5ZS5wbmdAMzAwd18wZS53ZWJw&creator=Agent+BUB&is_creating=scripts,%20websites,%20and%20more!&design_code=1&design_color=%23FF5F5F&slug=agentbub" />][buymecoffee]
 
-[![Agent BUB's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=agentbub&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+---
 
 [website]: https://agentsquad.org
+[abwebsite]: https://agentbub.com
+[buymecoffee]: https://www.buymeacoffee.com/agentbub
 [asppartner]: https://partners.agentsquad.org
 [twitter]: https://twitter.com/Agent_BUB
 [youtube]: https://www.youtube.com/AgentBUB
-[instagram]: https://instagram.com/agentsquadproducts/
+[email]: mailto:agentbub@agentsquad.org
 [HTML]: https://www.google.com/search?q=html
 [CSS]: https://www.google.com/search?q=css
 [JS]: https://www.javascript.com/

@@ -11,8 +11,8 @@
 
 - 🔭 I am working hard to make my way as a [freelance developer][website] and build my [company][aspwebsite]!
 - 🌱 I’m currently learning more about front and backend web development.
-- 👨‍💻 All of my projects will be available at [agentbub.dev](agentbub.dev) very soon.
-- 👯 Both ASP and me are always looking for new partners ([My Partnership][website] | [ASP Partnership][asppartner]).
+- 👨‍💻 All of my projects will be available at [agentbub.dev][website] very soon.
+- 👯 Both ASP and me are always looking for new partners ([My Partnership][website/partners] | [ASP Partnership][asppartner]).
 - 🥅 2021/2022 Goals: Better my development skills and grow the company.
 - 📫 How to reach me: [contact me on my website][website] or use [social media](#connect-with-me).
 - ⚡ Fun fact: I have been developing since 2017, but back then it was Roblox, haha.

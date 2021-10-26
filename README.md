@@ -82,12 +82,6 @@
 ### 💹 Support Me:
 [<img align="left" alt="By me a coffee | Agent BUB" width="452px" height="227px" src="https://img.buymeacoffee.com/api/?url=aHR0cHM6Ly9jZG4uYnV5bWVhY29mZmVlLmNvbS91cGxvYWRzL3Byb2ZpbGVfcGljdHVyZXMvMjAyMS8xMC9jYTUyMzlmYWEzYzVlZTI4NzljODVmZTk4YzdkYjAyMy5wbmdAMzAwd18wZS53ZWJw&creator=Agent+BUB&is_creating=creating%20scripts,%20websites,%20and%20more!&design_code=1&design_color=%23FF5F5F&slug=agentbub" />][buymecoffee]
 
-<br />
-
-### 💁‍♂️ Who I Support:
-
-
-
 
 [website]: https://agentbub.dev
 [aspwebsite]: https://agentsquad.org

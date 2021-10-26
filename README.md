@@ -21,14 +21,14 @@
 
 ### Connect with me:
 
-[<img align="left" alt="agentbub.dev" height="30" width="40" src="https://icons.iconarchive.com/icons/google/noto-emoji-travel-places/512/42454-globe-with-meridians-icon.png" />][website]
+[<img align="left" alt="agentbub.dev" height="30" width="40" src="https://raw.githubusercontent.com/AgentBUB/AgentBUB/main/src/images/website.svg" />][website]
 [<img align="left" alt="Agent BUB | Discord" height="30" width="40" src="https://raw.githubusercontent.com/AgentBUB/AgentBUB/main/src/images/discord.svg" />][discord]
 [<img align="left" alt="Agent BUB | YouTube" height="30" width="40" src="https://raw.githubusercontent.com/AgentBUB/AgentBUB/main/src/images/youtube.svg" />][youtube]
 [<img align="left" alt="Agent BUB | Twitch" height="30" width="40" src="https://raw.githubusercontent.com/AgentBUB/AgentBUB/main/src/images/twitch.svg" />][twitch]
 [<img align="left" alt="Agent BUB | Stackoverflow" height="30" width="40" src="https://raw.githubusercontent.com/AgentBUB/AgentBUB/main/src/images/stack-overflow.svg" />][stackoverflow]
 [<img align="left" alt="Agent BUB | Twitter" height="30" width="40" src="https://raw.githubusercontent.com/AgentBUB/AgentBUB/main/src/images/twitter.svg" />][twitter]
 [<img align="left" alt="Agent BUB | Reddit" height="30" width="40" src="https://raw.githubusercontent.com/AgentBUB/AgentBUB/main/src/images/reddit.svg" />][reddit]
-[<img align="left" alt="Agent BUB | Email" height="30" width="40" src="https://icons.iconarchive.com/icons/limav/flat-gradient-social/64/email-icon.png" />][email]
+[<img align="left" alt="Agent BUB | Email" height="30" width="40" src="https://raw.githubusercontent.com/AgentBUB/AgentBUB/main/src/images/email.svg" />][email]
 
 <br />
 

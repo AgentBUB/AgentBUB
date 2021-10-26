@@ -14,7 +14,7 @@
 - 👨‍💻 All of my projects will be available at [agentbub.dev][website] very soon.
 - 👯 Both ASP and me are always looking for new partners ([My Partnership][website] | [ASP Partnership][asppartner]).
 - 🥅 2021/2022 Goals: Better my development skills and grow the company.
-- 📫 How to reach me: [contact me on my website][website] or use [social media](#connect-with-me).
+- 📫 How to reach me: [contact me on my website][website] or use social media.
 - ⚡ Fun fact: I have been developing since 2017, but back then it was Roblox, haha.
 
 ---
@@ -62,12 +62,6 @@
 
 ---
 
-### 🎵 Spotify Status
-
-[![Spotify](https://novatorem-agentbub.vercel.app/api/spotify)](https://open.spotify.com/user/zufvilhzm5tvfwsrr4bbvxkgj)
-
----
-
 ### 📊 GitHub Stats
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=agentbub&show_icons=true&locale=en&theme=highcontrast" alt="Agent BUB's Github Status" /></p>
@@ -75,6 +69,12 @@
 ### ⏲ Wakatime Stats
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=agentbub&layout=compact&" alt="Agent BUB's Wakatime Stats" /></p>
+
+---
+
+### 🎵 Spotify Status
+
+[![Spotify](https://novatorem-agentbub.vercel.app/api/spotify)](https://open.spotify.com/user/zufvilhzm5tvfwsrr4bbvxkgj)
 
 ---
 

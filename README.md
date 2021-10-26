@@ -6,7 +6,7 @@
 <a href="https://agetbub.dev" target="_blank"><img src="https://img.shields.io/website?down_color=red&down_message=Offline&label=My%20Site&style=flat-square&up_color=brightgreen&up_message=Online&url=https%3A%2F%2Fagentbub.dev" alt="Website Staus" /></a>
 <a href="https://agentsquad.org" target="_blank"><img src="https://img.shields.io/website?down_color=red&down_message=Offline&label=ASP%20Site&style=flat-square&up_color=brightgreen&up_message=Online&url=https%3A%2F%2Fagentsquad.org" alt="ASPWebsiteStatus" /></a>
 <a href="https://agentbub.dev/discord" target="_blank"><img src="https://img.shields.io/discord/468147492270243840?color=blue&label=My%20Discord&style=flat-square" alt="Discord Status" /></a>
-<a href="https://discord.agentsquad.org" target="_blank"><img src="https://img.shields.io/discord/352577622103949312?color=blue&label=My%20Discord&style=flat-square" alt="ASPDiscord Staus" /></a>
+<a href="https://discord.agentsquad.org" target="_blank"><img src="https://img.shields.io/discord/352577622103949312?color=blue&label=ASP%20Discord&style=flat-square" alt="ASPDiscord Staus" /></a>
 </p>
 
 - 🔭 I am working hard to make my way as a [freelance developer][website] and build my [company][aspwebsite]!

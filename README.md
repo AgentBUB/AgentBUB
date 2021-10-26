@@ -69,7 +69,7 @@
 
 ### ⏲ Wakatime Stats
 
-<p>&nbsp;<a href="#wakatime-status"><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=agentbub&layout=compact&" alt="Agent BUB's Wakatime Stats" /></a></p>
+<p>&nbsp;<a href="#wakatime-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=agentbub&layout=compact&" alt="Agent BUB's Wakatime Stats" /></a></p>
 
 ---
 

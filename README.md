@@ -64,12 +64,12 @@
 
 ### 📊 GitHub Stats
 
-<p>&nbsp;<a href=""><img align="center" src="https://github-readme-stats.vercel.app/api?username=agentbub&show_icons=true&locale=en&theme=highcontrast" alt="Agent BUB's Github Status" />
+<p>&nbsp;<a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=agentbub&show_icons=true&locale=en&theme=highcontrast" alt="Agent BUB's Github Status" />
 </a></p>
 
 ### ⏲ Wakatime Stats
 
-<p>&nbsp;<a href=""><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=agentbub&layout=compact&" alt="Agent BUB's Wakatime Stats" /></a></p>
+<p>&nbsp;<a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=agentbub&layout=compact&" alt="Agent BUB's Wakatime Stats" /></a></p>
 
 ---
 

@@ -1,13 +1,13 @@
-<p>
 <h1 align="center">Hi 👋, I'm Zach, or Agent BUB</h1>
 <h3 align="center">A passionate frontend/backend developer and entrepreneur!</h3>
-</p>
 
-![Visits](https://komarev.com/ghpvc/?username=agentbub&label=Profile%20views&color=0e75b6&style=flat-square)
-[![Website-Staus](https://img.shields.io/website?down_color=red&down_message=Offline&label=My%20Site&style=flat-square&up_color=brightgreen&up_message=Online&url=https%3A%2F%2Fagentbub.dev)][website]
-[![ASPWebsite-Status](https://img.shields.io/website?down_color=red&down_message=Offline&label=ASP%20Site&style=flat-square&up_color=brightgreen&up_message=Online&url=https%3A%2F%2Fagentsquad.org)][aspwebsite]
-[![Discord-Status](https://img.shields.io/discord/468147492270243840?color=blue&label=My%20Discord&style=flat-square)][discord]
-[![ASPDiscord-Staus](https://img.shields.io/discord/352577622103949312?color=blue&label=My%20Discord&style=flat-square)][aspdiscord]
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=agentbub&label=Profile%20views&color=0e75b6&style=flat-square" alt="Agent BUB's Visits" />
+<a href="https://agetbub.dev" target="_blank"><img src="https://img.shields.io/website?down_color=red&down_message=Offline&label=My%20Site&style=flat-square&up_color=brightgreen&up_message=Online&url=https%3A%2F%2Fagentbub.dev" alt="Website Staus" /></a>
+<a href="https://agentsquad.org" target="_blank"><img src="https://img.shields.io/website?down_color=red&down_message=Offline&label=ASP%20Site&style=flat-square&up_color=brightgreen&up_message=Online&url=https%3A%2F%2Fagentsquad.org" alt="ASPWebsiteStatus" /></a>
+<a href="https://agentbub.dev/discord" target="_blank"><img src="https://img.shields.io/discord/468147492270243840?color=blue&label=My%20Discord&style=flat-square" alt="Discord Status" /></a>
+<a href="https://discord.agentsquad.org" target="_blank"><img src="https://img.shields.io/discord/352577622103949312?color=blue&label=My%20Discord&style=flat-square" alt="ASPDiscord Staus" /></a>
+</p>
 
 - 🔭 I am working hard to make my way as a [freelance developer][website] and build my [company][aspwebsite]!
 - 🌱 I’m currently learning more about front and backend web development.
@@ -17,40 +17,45 @@
 - 📫 How to reach me: [contact me on my website][website] or use [social media](#connect-with-me).
 - ⚡ Fun fact: I have been developing since 2017, but back then it was Roblox, haha.
 
+---
+
 ### Connect with me:
 
-[<img align="left" alt="agentbub.dev" width="22px" src="https://icons.iconarchive.com/icons/google/noto-emoji-travel-places/512/42454-globe-with-meridians-icon.png" />][website]
-[<img align="left" alt="Agent BUB | YouTube" width="22px" src="https://icons.iconarchive.com/icons/marcus-roberto/google-play/64/YouTube-icon.png" />][youtube]
-[<img align="left" alt="Agent BUB | Twitter" width="22px" src="https://icons.iconarchive.com/icons/limav/flat-gradient-social/64/Twitter-icon.png" />][twitter]
-[<img align="left" alt="Agent BUB | Email" width="22px" src="https://icons.iconarchive.com/icons/limav/flat-gradient-social/64/email-icon.png" />][email]
-[<img align="left" alt="Agent BUB | Discord" width="22px" src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/512/discord-icon.png" />][discord]
+[<img align="left" alt="agentbub.dev" height="30" width="40" src="https://icons.iconarchive.com/icons/google/noto-emoji-travel-places/512/42454-globe-with-meridians-icon.png" />][website]
+[<img align="left" alt="Agent BUB | Discord" height="30" width="40" src="https://raw.githubusercontent.com/AgentBUB/AgentBUB/main/src/images/discord.svg" />][discord]
+[<img align="left" alt="Agent BUB | YouTube" height="30" width="40" src="https://raw.githubusercontent.com/AgentBUB/AgentBUB/main/src/images/youtube.svg" />][youtube]
+[<img align="left" alt="Agent BUB | Twitch" height="30" width="40" src="https://raw.githubusercontent.com/AgentBUB/AgentBUB/main/src/images/twitch.svg" />][twitch]
+[<img align="left" alt="Agent BUB | Stackoverflow" height="30" width="40" src="https://raw.githubusercontent.com/AgentBUB/AgentBUB/main/src/images/stack-overflow.svg" />][stackoverflow]
+[<img align="left" alt="Agent BUB | Twitter" height="30" width="40" src="https://raw.githubusercontent.com/AgentBUB/AgentBUB/main/src/images/twitter.svg" />][twitter]
+[<img align="left" alt="Agent BUB | Reddit" height="30" width="40" src="https://raw.githubusercontent.com/AgentBUB/AgentBUB/main/src/images/reddit.svg" />][reddit]
+[<img align="left" alt="Agent BUB | Email" height="30" width="40" src="https://icons.iconarchive.com/icons/limav/flat-gradient-social/64/email-icon.png" />][email]
 
 <br />
 
 ### Languages and Tools I Know/Use:
 
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][html]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][CSS]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][JS]
-[<img align="left" alt="Discord JS" width="26px" src="https://i.pinimg.com/originals/17/87/60/1787600aa6afb88ce9ec7f0bf847b854.png" />][DISCORDJS]
-[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][NODEJS]
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][VSCODE]
-[<img align="left" alt="Git" width="26px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />][GIT]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][GITHUB]
-[<img align="left" alt="Sqlite" width="26px" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" />][SQLITE]
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][TERMINAL]
-[<img align="left" alt="Photoshop" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" />][PHOTOSHOP]
-[<img align="left" alt="Unity" width="26px" src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" />][UNITY]
+[<img align="left" alt="HTML5" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][html]
+[<img align="left" alt="CSS3" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][CSS]
+[<img align="left" alt="JavaScript" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][JS]
+[<img align="left" alt="Discord JS" width="40" height="40" src="https://i.pinimg.com/originals/17/87/60/1787600aa6afb88ce9ec7f0bf847b854.png" />][DISCORDJS]
+[<img align="left" alt="Node.js" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][NODEJS]
+[<img align="left" alt="Visual Studio Code" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][VSCODE]
+[<img align="left" alt="Git" width="40" height="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />][GIT]
+[<img align="left" alt="GitHub" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][GITHUB]
+[<img align="left" alt="Sqlite" width="40" height="40" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" />][SQLITE]
+[<img align="left" alt="Terminal" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][TERMINAL]
+[<img align="left" alt="Photoshop" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" />][PHOTOSHOP]
+[<img align="left" alt="Unity" width="40" height="40" src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" />][UNITY]
 
 <br />
 
 ### Languages and Tools I'm Learning/Using:
-[<img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />][LINUX]
-[<img align="left" alt="VUE" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" />][VUE]
-[<img align="left" alt="NGINX" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" />][NGINX]
-[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][MYSQL]
-[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][REACT]
-[<img align="left" alt="Unreal" width="26px" src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" />][UNREAL]
+[<img align="left" alt="Linux" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />][LINUX]
+[<img align="left" alt="VUE" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" />][VUE]
+[<img align="left" alt="NGINX" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" />][NGINX]
+[<img align="left" alt="MySQL" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][MYSQL]
+[<img align="left" alt="React" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][REACT]
+[<img align="left" alt="Unreal" width="40" height="40" src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" />][UNREAL]
 
 <br />
 <br />
@@ -66,8 +71,6 @@
 ### 📊 GitHub Stats
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=agentbub&show_icons=true&locale=en&theme=highcontrast" alt="Agent BUB's Github Status" /></p>
-
-<br>
 
 ### ⏲ Wakatime Stats
 
@@ -89,6 +92,9 @@
 [twitter]: https://twitter.com/Agent_BUB
 [youtube]: https://www.youtube.com/AgentBUB
 [email]: mailto:me@agentbub.dev
+[stackoverflow]: https://stackoverflow.com/users/16256504/agent-bub
+[reddit]: https://www.reddit.com/user/Commando_BUB
+[twitch]: https://www.twitch.tv/agents_bub
 [HTML]: https://www.google.com/search?q=html
 [CSS]: https://www.google.com/search?q=css
 [JS]: https://www.javascript.com/

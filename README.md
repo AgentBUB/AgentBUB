@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend/backend developer, freelancer, and entrepreneur!</h3>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=agentbub&label=Profile%20views&color=0e75b6&style=flat-square" alt="Agent BUB's Visits" />
+<img src="https://komarev.com/ghpvc/?username=agentbub&label=Profile%20views&color=red&style=flat-square" alt="Agent BUB's Visits" />
 <a href="https://agetbub.dev" target="_blank"><img src="https://img.shields.io/website?down_color=red&down_message=Offline&label=My%20Site&style=flat-square&up_color=brightgreen&up_message=Online&url=https%3A%2F%2Fagentbub.dev" alt="Website Staus" /></a>
 <a href="https://agentsquad.org" target="_blank"><img src="https://img.shields.io/website?down_color=red&down_message=Offline&label=ASP%20Site&style=flat-square&up_color=brightgreen&up_message=Online&url=https%3A%2F%2Fagentsquad.org" alt="ASPWebsiteStatus" /></a>
 <a href="https://agentbub.dev/discord" target="_blank"><img src="https://img.shields.io/discord/468147492270243840?color=blue&label=My%20Discord&style=flat-square" alt="Discord Status" /></a>
@@ -81,6 +81,11 @@
 
 ### 💹 Support Me:
 [<img align="left" alt="By me a coffee | Agent BUB" width="452px" height="227px" src="https://img.buymeacoffee.com/api/?url=aHR0cHM6Ly9jZG4uYnV5bWVhY29mZmVlLmNvbS91cGxvYWRzL3Byb2ZpbGVfcGljdHVyZXMvMjAyMS8xMC9jYTUyMzlmYWEzYzVlZTI4NzljODVmZTk4YzdkYjAyMy5wbmdAMzAwd18wZS53ZWJw&creator=Agent+BUB&is_creating=creating%20scripts,%20websites,%20and%20more!&design_code=1&design_color=%23FF5F5F&slug=agentbub" />][buymecoffee]
+
+<br />
+
+### 💁‍♂️ Who I Support:
+
 
 
 

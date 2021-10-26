@@ -1,13 +1,13 @@
+<p>
 <h1 align="center">Hi 👋, I'm Zach, or Agent BUB</h1>
 <h3 align="center">A passionate frontend/backend developer and entrepreneur!</h3>
+</p>
 
-![Visits](https://komarev.com/ghpvc/?username=agentbub&label=Profile%20views&color=0e75b6&style=flat)
+![Visits](https://komarev.com/ghpvc/?username=agentbub&label=Profile%20views&color=0e75b6&style=flat-square)
 [![Website-Staus](https://img.shields.io/website?down_color=red&down_message=Offline&label=My%20Site&style=flat-square&up_color=brightgreen&up_message=Online&url=https%3A%2F%2Fagentbub.dev)][website]
-[![ASPWebsite-Status](https://img.shields.io/website?down_color=red&down_message=Offline&label=ASP%20Site&style=flat-square&up_color=brightgreen&up_message=Online&url=https%3A%2F%2Fagentsquad.org)][aspwebsite] || 
+[![ASPWebsite-Status](https://img.shields.io/website?down_color=red&down_message=Offline&label=ASP%20Site&style=flat-square&up_color=brightgreen&up_message=Online&url=https%3A%2F%2Fagentsquad.org)][aspwebsite]
 [![Discord-Status](https://img.shields.io/discord/468147492270243840?color=blue&label=My%20Discord&style=flat-square)][discord]
 [![ASPDiscord-Staus](https://img.shields.io/discord/352577622103949312?color=blue&label=My%20Discord&style=flat-square)][aspdiscord]
-
-## I'm a Developer, Entrepreneur, and Student!!
 
 - 🔭 I am working hard to make my way as a [freelance developer][website] and build my [company][aspwebsite]!
 - 🌱 I’m currently learning more about front and backend web development.
@@ -67,17 +67,11 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=agentbub&show_icons=true&locale=en&theme=highcontrast" alt="Agent BUB's Github Status" /></p>
 
-<br />
-
-### 📚 Top Languages
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=agentbub&show_icons=true&locale=en&layout=compact" alt="Agent BUB's Top Github Languages" /></p>
-
-<br />
+<br>
 
 ### ⏲ Wakatime Stats
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=agentbub&layout=compact&" alt="Agent BUB's Wakatime Stats" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=agentbub&layout=compact&" alt="Agent BUB's Wakatime Stats" /></p>
 
 ---
 

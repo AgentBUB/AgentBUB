@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Zach, or Agent BUB</h1>
 <h3 align="center">A passionate frontend/backend developer and entrepreneur!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=agentbub&label=Profile%20views&color=0e75b6&style=flat" alt="agentbub" /> </p>
-
+![Visits](https://komarev.com/ghpvc/?username=agentbub&label=Profile%20views&color=0e75b6&style=flat)
 [![Website-Staus](https://img.shields.io/website?down_color=red&down_message=Offline&label=My%20Site&style=flat-square&up_color=brightgreen&up_message=Online&url=https%3A%2F%2Fagentbub.dev)][website]
 [![ASPWebsite-Status](https://img.shields.io/website?down_color=red&down_message=Offline&label=ASP%20Site&style=flat-square&up_color=brightgreen&up_message=Online&url=https%3A%2F%2Fagentsquad.org)][aspwebsite] || 
 [![Discord-Status](https://img.shields.io/discord/468147492270243840?color=blue&label=My%20Discord&style=flat-square)][discord]
@@ -53,11 +52,6 @@
 [<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][REACT]
 [<img align="left" alt="Unreal" width="26px" src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" />][UNREAL]
 
-### Languages and Tools I'm Learning/Using:
-[<img align="left" alt="VUE" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />][VUE]
-[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][MYSQL]
-[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][REACT]
-
 <br />
 <br />
 
@@ -73,9 +67,13 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=agentbub&show_icons=true&locale=en&theme=highcontrast" alt="Agent BUB's Github Status" /></p>
 
+<br />
+
 ### 📚 Top Languages
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=agentbub&show_icons=true&locale=en&layout=compact" alt="Agent BUB's Top Github Languages" /></p>
+
+<br />
 
 ### ⏲ Wakatime Stats
 

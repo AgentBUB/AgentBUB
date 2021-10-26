@@ -64,7 +64,7 @@
 
 ### 📊 GitHub Stats
 
-<p>&nbsp;<a href="#github-status"><img align="center" src="https://github-readme-stats.vercel.app/api?username=agentbub&show_icons=true&locale=en&theme=highcontrast" alt="Agent BUB's Github Status" />
+<p>&nbsp;<a href="#github-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=agentbub&show_icons=true&locale=en&theme=highcontrast" alt="Agent BUB's Github Status" />
 </a></p>
 
 ### ⏲ Wakatime Stats

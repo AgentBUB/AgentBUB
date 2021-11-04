@@ -49,11 +49,12 @@
 <br />
 
 ### Languages and Tools I'm Learning/Using:
-[<img align="left" alt="Linux" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />][LINUX]
 [<img align="left" alt="VUE" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" />][VUE]
+[<img align="left" alt="PHP" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" />][PHP]
+[<img align="left" alt="Linux" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />][LINUX]
 [<img align="left" alt="NGINX" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" />][NGINX]
-[<img align="left" alt="MySQL" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][MYSQL]
-[<img align="left" alt="React" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][REACT]
+[<img align="left" alt="MySQL" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" />][MYSQL]
+[<img align="left" alt="React" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />][REACT]
 [<img align="left" alt="Unreal" width="40" height="40" src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" />][UNREAL]
 
 <br />
@@ -98,6 +99,7 @@
 [JS]: https://www.javascript.com/
 [VUE]: https://vuejs.org/
 [REACT]: https://reactjs.org/
+[PHP]: https://www.php.net/
 [DISCORDJS]: https://discord.js.org/
 [NODEJS]: https://nodejs.org/
 [VSCODE]: https://code.visualstudio.com/

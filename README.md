@@ -38,7 +38,6 @@
 [<img align="left" alt="JavaScript" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][JS]
 [<img align="left" alt="PHP" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" />][PHP]
 [<img align="left" alt="Discord JS" width="40" height="40" src="https://i.pinimg.com/originals/17/87/60/1787600aa6afb88ce9ec7f0bf847b854.png" />][DISCORDJS]
-[<img align="left" alt="Node.js" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][NODEJS]
 [<img align="left" alt="Visual Studio Code" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][VSCODE]
 [<img align="left" alt="Git" width="40" height="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />][GIT]
 [<img align="left" alt="GitHub" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][GITHUB]
@@ -51,6 +50,7 @@
 
 ### Languages and Tools I'm Learning/Want to Learn:
 [<img align="left" alt="EJS" width="40" height="40" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" />][EJS]
+[<img align="left" alt="Node.js" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][NODEJS]
 [<img align="left" alt="VUE" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" />][VUE]
 [<img align="left" alt="Linux" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />][LINUX]
 [<img align="left" alt="NGINX" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" />][NGINX]

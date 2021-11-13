@@ -36,6 +36,7 @@
 [<img align="left" alt="HTML5" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][html]
 [<img align="left" alt="CSS3" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][CSS]
 [<img align="left" alt="JavaScript" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][JS]
+[<img align="left" alt="PHP" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" />][PHP]
 [<img align="left" alt="Discord JS" width="40" height="40" src="https://i.pinimg.com/originals/17/87/60/1787600aa6afb88ce9ec7f0bf847b854.png" />][DISCORDJS]
 [<img align="left" alt="Node.js" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][NODEJS]
 [<img align="left" alt="Visual Studio Code" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][VSCODE]
@@ -48,9 +49,9 @@
 
 <br />
 
-### Languages and Tools I'm Learning/Using:
+### Languages and Tools I'm Learning/Want to Learn:
+[<img align="left" alt="EJS" width="40" height="40" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" />][EJS]
 [<img align="left" alt="VUE" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" />][VUE]
-[<img align="left" alt="PHP" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" />][PHP]
 [<img align="left" alt="Linux" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />][LINUX]
 [<img align="left" alt="NGINX" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" />][NGINX]
 [<img align="left" alt="MySQL" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" />][MYSQL]
@@ -100,6 +101,7 @@
 [VUE]: https://vuejs.org/
 [REACT]: https://reactjs.org/
 [PHP]: https://www.php.net/
+[EJS]: https://expressjs.com/
 [DISCORDJS]: https://discord.js.org/
 [NODEJS]: https://nodejs.org/
 [VSCODE]: https://code.visualstudio.com/

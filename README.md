@@ -8,7 +8,7 @@
 <a href="https://discord.agentsquad.org" target="_blank"><img src="https://img.shields.io/discord/352577622103949312?color=blue&label=ASP%20Discord&style=flat-square" alt="ASPDiscord Staus" /></a>
 </p>
 
-- 🔭 I am working hard to make my way as a [freelance developer][website] and build my [company][aspwebsite]!
+- 🔭 I am working hard to make my way as a [freelance developer][website] and building my [company][aspwebsite]!
 - 🌱 I’m currently learning more about front and backend web development.
 - 👨‍💻 All of my projects will be available at [agentbub.dev][website] very soon.
 - 👯 Both ASP and me are always looking for new partners ([My Partnership][website] | [ASP Partnership][asppartner]).

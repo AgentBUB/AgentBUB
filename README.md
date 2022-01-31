@@ -41,20 +41,17 @@
 [<img align="left" alt="Visual Studio Code" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][VSCODE]
 [<img align="left" alt="Git" width="40" height="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />][GIT]
 [<img align="left" alt="GitHub" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][GITHUB]
-[<img align="left" alt="Sqlite" width="40" height="40" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" />][SQLITE]
-[<img align="left" alt="Terminal" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][TERMINAL]
 [<img align="left" alt="Photoshop" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" />][PHOTOSHOP]
-[<img align="left" alt="Unity" width="40" height="40" src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" />][UNITY]
 
 <br />
 
 ### Languages and Tools I'm Learning/Want to Learn:
 [<img align="left" alt="EJS" width="40" height="40" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" />][EJS]
 [<img align="left" alt="Node.js" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][NODEJS]
-[<img align="left" alt="VUE" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" />][VUE]
-[<img align="left" alt="Linux" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />][LINUX]
-[<img align="left" alt="NGINX" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" />][NGINX]
 [<img align="left" alt="MySQL" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" />][MYSQL]
+[<img align="left" alt="Linux" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />][LINUX]
+[<img align="left" alt="VUE" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" />][VUE]
+[<img align="left" alt="NGINX" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" />][NGINX]
 [<img align="left" alt="React" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />][REACT]
 [<img align="left" alt="Unreal" width="40" height="40" src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" />][UNREAL]
 
@@ -112,6 +109,4 @@
 [LINUX]: https://www.linux.org/
 [NGINX]: https://www.nginx.com/
 [PHOTOSHOP]: https://www.photoshop.com/en
-[SQLITE]: https://www.sqlite.org/
-[UNITY]: https://unity.com/
 [UNREAL]: https://unrealengine.com/

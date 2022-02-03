@@ -46,7 +46,8 @@
 <br />
 
 ### Languages and Tools I'm Learning/Want to Learn:
-[<img align="left" alt="EJS" width="40" height="40" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" />][EJS]
+[<img align="left" alt="ExpressJS" width="40" height="40" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" />][ExpressJS]
+[<img align="left" alt="EJS" width="40" height="40" src="https://raw.githubusercontent.com/AgentBUB/AgentBUB/main/src/images/ejsLogo.svg" />][EJS]
 [<img align="left" alt="Node.js" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][NODEJS]
 [<img align="left" alt="MySQL" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" />][MYSQL]
 [<img align="left" alt="Linux" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />][LINUX]
@@ -98,7 +99,8 @@
 [VUE]: https://vuejs.org/
 [REACT]: https://reactjs.org/
 [PHP]: https://www.php.net/
-[EJS]: https://expressjs.com/
+[ExpressJS]: https://expressjs.com/
+[EJS]: https://ejs.co/
 [DISCORDJS]: https://discord.js.org/
 [NODEJS]: https://nodejs.org/
 [VSCODE]: https://code.visualstudio.com/

@@ -3,7 +3,7 @@
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=agentbub&label=Profile%20views&color=red&style=flat-square" alt="Agent BUB's Visits" />
-<a href="https://agetbub.dev" target="_blank"><img src="https://img.shields.io/website?down_color=red&down_message=Offline&label=My%20Site&style=flat-square&up_color=brightgreen&up_message=Online&url=https%3A%2F%2Fagentbub.dev" alt="Website Staus" /></a>
+<a href="https://agentbub.dev" target="_blank"><img src="https://img.shields.io/website?down_color=red&down_message=Offline&label=My%20Site&style=flat-square&up_color=brightgreen&up_message=Online&url=https%3A%2F%2Fagentbub.dev" alt="Website Staus" /></a>
 <a href="https://agentsquad.org" target="_blank"><img src="https://img.shields.io/website?down_color=red&down_message=Offline&label=ASP%20Site&style=flat-square&up_color=brightgreen&up_message=Online&url=https%3A%2F%2Fagentsquad.org" alt="ASPWebsiteStatus" /></a>
 <a href="https://discord.agentsquad.org" target="_blank"><img src="https://img.shields.io/discord/352577622103949312?color=blue&label=ASP%20Discord&style=flat-square" alt="ASPDiscord Staus" /></a>
 </p>

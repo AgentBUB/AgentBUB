@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zach, or Agent BUB</h1>
-<h3 align="center">A passionate frontend/backend developer, freelancer, and entrepreneur!</h3>
+<h3 align="center">A passionate full-stack developer, freelancer, and entrepreneur!</h3>
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=agentbub&label=Profile%20views&color=red&style=flat-square" alt="Agent BUB's Visits" />

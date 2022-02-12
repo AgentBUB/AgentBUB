@@ -86,7 +86,7 @@
 [discord]: https://agentbub.dev/discord
 [aspdiscord]: https://discord.agentsquad.org
 [buymecoffee]: https://www.buymeacoffee.com/agentbub
-[asppartner]: https://partners.agentsquad.org
+[asppartner]: https://agentsquad.org/partners
 [twitter]: https://twitter.com/Agent_BUB
 [youtube]: https://www.youtube.com/AgentBUB
 [email]: mailto:me@agentbub.dev

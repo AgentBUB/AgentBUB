@@ -82,11 +82,11 @@
 
 
 [website]: https://agentbub.dev
-[aspwebsite]: https://agentsquad.org
+[aspwebsite]: https://shadowdevs.com
 [discord]: https://agentbub.dev/discord
-[aspdiscord]: https://discord.agentsquad.org
+[aspdiscord]: https://discord.shadowdevs.com
 [buymecoffee]: https://www.buymeacoffee.com/agentbub
-[asppartner]: https://agentsquad.org/partners
+[asppartner]: https://shadowdevs.com/partners
 [twitter]: https://twitter.com/Agent_BUB
 [youtube]: https://www.youtube.com/AgentBUB
 [email]: mailto:me@agentbub.dev

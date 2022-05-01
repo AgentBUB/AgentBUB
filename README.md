@@ -4,14 +4,14 @@
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=agentbub&label=Profile%20views&color=red&style=flat-square" alt="Agent BUB's Visits" />
 <a href="https://agentbub.dev" target="_blank"><img src="https://img.shields.io/website?down_color=red&down_message=Offline&label=My%20Site&style=flat-square&up_color=brightgreen&up_message=Online&url=https%3A%2F%2Fagentbub.dev" alt="Website Staus" /></a>
-<a href="https://agentsquad.org" target="_blank"><img src="https://img.shields.io/website?down_color=red&down_message=Offline&label=ASP%20Site&style=flat-square&up_color=brightgreen&up_message=Online&url=https%3A%2F%2Fagentsquad.org" alt="ASPWebsiteStatus" /></a>
-<a href="https://discord.agentsquad.org" target="_blank"><img src="https://img.shields.io/discord/352577622103949312?color=blue&label=ASP%20Discord&style=flat-square" alt="ASPDiscord Staus" /></a>
+<a href="https://shadowdevs.com" target="_blank"><img src="https://img.shields.io/website?down_color=red&down_message=Offline&label=Company%20Site&style=flat-square&up_color=brightgreen&up_message=Online&url=https%3A%2F%2Fshadowdevs.com" alt="CompanyWebsiteStatus" /></a>
+<a href="https://shadowdevs.com/discord" target="_blank"><img src="https://img.shields.io/discord/352577622103949312?color=blue&label=Discord&style=flat-square" alt="Discord Staus" /></a>
 </p>
 
 - 🔭 I am working hard to make my way as a [freelance developer][website] and building [my company][aspwebsite]!
 - 🌱 I’m currently learning more about front and backend web development.
 - 👨‍💻 All of my projects will be available at [agentbub.dev][website].
-- 👯 Both ASP and me are always looking for new partners, associates, and friends! ([ASP Partnership][asppartner]).
+- 👯 Both Shadow Development and me are always looking for new partners, associates, and friends! ([Shaodw Dev Partnership][asppartner]).
 - 🥅 2022 Goals: Better my web development skills and grow my company.
 - 📫 How to reach me: [contact me on my website][website] or use social media.
 - ⚡ Fun fact: I have been developing since 2017, but back then it was Roblox, haha.

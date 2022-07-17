@@ -78,6 +78,7 @@
 ---
 
 ### 💹 Support Me:
+[![image](https://user-images.githubusercontent.com/46576969/179379693-60756c50-68a1-41b4-89a7-bdf29a4b810f.png)][gitsponsor]
 [<img align="left" alt="By me a coffee | Agent BUB" width="452px" height="227px" src="https://img.buymeacoffee.com/api/?url=aHR0cHM6Ly9jZG4uYnV5bWVhY29mZmVlLmNvbS91cGxvYWRzL3Byb2ZpbGVfcGljdHVyZXMvMjAyMS8xMC9jYTUyMzlmYWEzYzVlZTI4NzljODVmZTk4YzdkYjAyMy5wbmdAMzAwd18wZS53ZWJw&creator=Agent+BUB&is_creating=creating%20scripts,%20websites,%20and%20more!&design_code=1&design_color=%23FF5F5F&slug=agentbub" />][buymecoffee]
 
 
@@ -85,6 +86,7 @@
 [aspwebsite]: https://shadowdevs.com
 [discord]: https://agentbub.dev/discord
 [aspdiscord]: https://discord.shadowdevs.com
+[gitsponsor]: https://github.com/sponsors/AgentBUB
 [buymecoffee]: https://www.buymeacoffee.com/agentbub
 [asppartner]: https://shadowdevs.com/partners
 [twitter]: https://twitter.com/Agent_BUB

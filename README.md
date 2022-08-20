@@ -11,7 +11,7 @@
 - 🔭 I am working hard to make my way as a [freelance developer][website] and building [my company][aspwebsite]!
 - 🌱 I’m currently learning more about front and backend web development.
 - 👨‍💻 All of my projects will be available at [agentbub.dev][website].
-- 👯 Both [Shaodw Dev Partnership][asppartner] and me are always looking for new partners, associates, and friends!
+- 👯 Both [Shadow Dev Partnership][asppartner] and me are always looking for new partners, associates, and friends!
 - 🥅 2022 Goals: Better my web development skills and grow my company.
 - 📫 How to reach me: [contact me on my website][website] or use social media.
 - ⚡ Fun fact: I have been developing since 2017, but back then it was Roblox, haha.

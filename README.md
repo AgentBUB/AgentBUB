@@ -8,10 +8,10 @@
 <a href="https://shadowdevs.com/discord" target="_blank"><img src="https://img.shields.io/discord/352577622103949312?color=blue&label=Discord&style=flat-square" alt="Discord Staus" /></a>
 </p>
 
-- 🔭 I am working hard to make my way as a [freelance developer][website] and building [my company][aspwebsite]!
+- 🔭 I am working hard to make my way as a [freelance developer][website] and building [my company][sdpartner]!
 - 🌱 I’m currently learning more about front and backend web development.
 - 👨‍💻 All of my projects will be available at [agentbub.dev][website].
-- 👯 Both [Shadow Dev Partnership][asppartner] and me are always looking for new partners, associates, and friends!
+- 👯 Both [Shadow Development][sdpartner] and me are always looking for new partners, associates, and friends!
 - 🥅 2022 Goals: Better my web development skills and grow my company.
 - 📫 How to reach me: [contact me on my website][website] or use social media.
 - ⚡ Fun fact: I have been developing since 2017, but back then it was Roblox, haha.
@@ -42,15 +42,15 @@
 [![](https://img.shields.io/badge/git-F6A22A?style=for-the-badge&logo=git&logoColor=white)&nbsp;][GIT]
 [![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)&nbsp;][GITHUB]
 [![](https://img.shields.io/badge/photoshop-5BB8EF?style=for-the-badge&logo=photoshop&logoColor=white)&nbsp;][PHOTOSHOP]
-![](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)&nbsp;
+[![](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)&nbsp;][WINDOWS]
 [![](https://img.shields.io/badge/Linux-d94100?style=for-the-badge&logo=linux&logoColor=white)&nbsp;][LINUX]
 [![](https://img.shields.io/badge/NGINX-43853D?style=for-the-badge&logo=NGINX&logoColor=white)&nbsp;][NGINX]
 [![](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;][MYSQL]
 [![](https://img.shields.io/badge/Express-0EBC21?style=for-the-badge&logo=Express&logoColor=white)&nbsp;][ExpressJS]
 [![](https://img.shields.io/badge/EmbededJS-0EBC21?style=for-the-badge&logo=EmbededJS&logoColor=white)&nbsp;][EJS]
 [![](https://img.shields.io/badge/NODEJS-43853D?style=for-the-badge&logo=nodejs&logoColor=white)&nbsp;][NODEJS]
-![](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)&nbsp;
-![](https://img.shields.io/badge/DISCORD-7289DA?style=for-the-badge&logo=DISCORD&logoColor=white)&nbsp;
+[![](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)&nbsp;][MARKDOWN]
+[![](https://img.shields.io/badge/DISCORD-7289DA?style=for-the-badge&logo=DISCORD&logoColor=white)&nbsp;][discord]
 
 ### Languages and Tools I'm Learning/Want to Learn:
 [![](https://img.shields.io/badge/VUEJS-75FACA?style=for-the-badge&logo=VUEJS&logoColor=white)&nbsp;][VUE]
@@ -77,9 +77,9 @@
 [![image](https://user-images.githubusercontent.com/46576969/179379693-60756c50-68a1-41b4-89a7-bdf29a4b810f.png)][gitsponsor]
 
 [website]: https://agentbub.dev
-[aspwebsite]: https://shadowdevs.com
+[sdwebsite]: https://shadowdevs.com
 [discord]: https://agentbub.dev/discord
-[aspdiscord]: https://discord.shadowdevs.com
+[sdpartner]: https://discord.shadowdevs.com
 [gitsponsor]: https://github.com/sponsors/AgentBUB
 [buymecoffee]: https://www.buymeacoffee.com/agentbub
 [asppartner]: https://shadowdevs.com/partners
@@ -108,3 +108,5 @@
 [NGINX]: https://www.nginx.com/
 [PHOTOSHOP]: https://www.photoshop.com/en
 [UNREAL]: https://unrealengine.com/
+[WINDOWS]: https://www.microsoft.com/en-us/windows
+[MARKDOWN]: https://www.markdownguide.org/

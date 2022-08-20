@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Zach, or Agent BUB</h1>
+<h1 align="center">Hi 👋, I'm Zach, or <a href="https://agentbub.dev">Agent BUB</a></h1>
 <h3 align="center">A passionate full-stack developer, freelancer, and entrepreneur!</h3>
 
 <p align="center">
@@ -33,54 +33,48 @@
 
 ### Languages and Tools I Know/Use:
 
-[<img align="left" alt="HTML5" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][html]
-[<img align="left" alt="CSS3" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][CSS]
-[<img align="left" alt="JavaScript" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][JS]
-[<img align="left" alt="PHP" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" />][PHP]
-[<img align="left" alt="Discord JS" width="40" height="40" src="https://i.pinimg.com/originals/17/87/60/1787600aa6afb88ce9ec7f0bf847b854.png" />][DISCORDJS]
-[<img align="left" alt="Visual Studio Code" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][VSCODE]
-[<img align="left" alt="Git" width="40" height="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />][GIT]
-[<img align="left" alt="GitHub" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][GITHUB]
-[<img align="left" alt="Photoshop" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" />][PHOTOSHOP]
-
-<br />
+[![](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;][html]
+[![](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;][CSS]
+[![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;][JS]
+[![](https://img.shields.io/badge/PHP-8B008B?style=for-the-badge&logo=PHP&logoColor=white)&nbsp;][PHP]
+[![](https://img.shields.io/badge/DISCORDJS-7289DA?style=for-the-badge&logo=DISCORD&logoColor=white)&nbsp;][DISCORDJS]
+[![](https://img.shields.io/badge/VSCODE-0D5CD0?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;][VSCODE]
+[![](https://img.shields.io/badge/git-F6A22A?style=for-the-badge&logo=git&logoColor=white)&nbsp;][GIT]
+[![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)&nbsp;][GITHUB]
+[![](https://img.shields.io/badge/photoshop-5BB8EF?style=for-the-badge&logo=photoshop&logoColor=white)&nbsp;][PHOTOSHOP]
+![](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)&nbsp;
+[![](https://img.shields.io/badge/Linux-d94100?style=for-the-badge&logo=linux&logoColor=white)&nbsp;][LINUX]
+[![](https://img.shields.io/badge/NGINX-43853D?style=for-the-badge&logo=NGINX&logoColor=white)&nbsp;][NGINX]
+[![](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;][MYSQL]
+[![](https://img.shields.io/badge/Express-0EBC21?style=for-the-badge&logo=Express&logoColor=white)&nbsp;][ExpressJS]
+[![](https://img.shields.io/badge/EmbededJS-0EBC21?style=for-the-badge&logo=EmbededJS&logoColor=white)&nbsp;][EJS]
+[![](https://img.shields.io/badge/NODEJS-43853D?style=for-the-badge&logo=nodejs&logoColor=white)&nbsp;][NODEJS]
+![](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)&nbsp;
+![](https://img.shields.io/badge/DISCORD-7289DA?style=for-the-badge&logo=DISCORD&logoColor=white)&nbsp;
 
 ### Languages and Tools I'm Learning/Want to Learn:
-[<img align="left" alt="ExpressJS" width="40" height="40" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" />][ExpressJS]
-[<img align="left" alt="EJS" width="40" height="40" src="https://raw.githubusercontent.com/AgentBUB/AgentBUB/main/src/images/ejsLogo.svg" />][EJS]
-[<img align="left" alt="Node.js" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][NODEJS]
-[<img align="left" alt="MySQL" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" />][MYSQL]
-[<img align="left" alt="Linux" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />][LINUX]
-[<img align="left" alt="VUE" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" />][VUE]
-[<img align="left" alt="NGINX" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" />][NGINX]
-[<img align="left" alt="React" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />][REACT]
-[<img align="left" alt="Unreal" width="40" height="40" src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" />][UNREAL]
-
-<br />
-<br />
+[![](https://img.shields.io/badge/VUEJS-75FACA?style=for-the-badge&logo=VUEJS&logoColor=white)&nbsp;][VUE]
+[![](https://img.shields.io/badge/react-6FA9FE?style=for-the-badge&logo=react&logoColor=white)&nbsp;][REACT]
+[![](https://img.shields.io/badge/unreal-979EAA?style=for-the-badge&logo=unreal&logoColor=white)&nbsp;][UNREAL]
 
 ---
 
 ### 📊 GitHub Stats
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=agentbub&show_icons=true&locale=en&theme=highcontrast" alt="Agent BUB's Github Status" /></p>
+<p align="left">
+<a href="#">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AgentBUB&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+</a>
+</p>
 
 ### ⏲ Wakatime Stats
 
-<p>&nbsp;<a href="https://wakatime.com/@agentbub" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=agentbub&layout=compact&" alt="Agent BUB's Wakatime Stats" /></a></p>
-
----
-
-### 🎵 Spotify Status
-
-[![Spotify](https://novatorem-agentbub.vercel.app/api/spotify)](https://open.spotify.com/user/zufvilhzm5tvfwsrr4bbvxkgj)
+<p>&nbsp;<a href="https://wakatime.com/@agentbub" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=agentbub&layout=compact&theme=react" alt="Agent BUB's Wakatime Stats" /></a></p>
 
 ---
 
 ### 💹 Support Me:
 [![image](https://user-images.githubusercontent.com/46576969/179379693-60756c50-68a1-41b4-89a7-bdf29a4b810f.png)][gitsponsor]
-[<img align="left" alt="By me a coffee | Agent BUB" width="452px" height="227px" src="https://img.buymeacoffee.com/api/?url=aHR0cHM6Ly9jZG4uYnV5bWVhY29mZmVlLmNvbS91cGxvYWRzL3Byb2ZpbGVfcGljdHVyZXMvMjAyMS8xMC9jYTUyMzlmYWEzYzVlZTI4NzljODVmZTk4YzdkYjAyMy5wbmdAMzAwd18wZS53ZWJw&creator=Agent+BUB&is_creating=creating%20scripts,%20websites,%20and%20more!&design_code=1&design_color=%23FF5F5F&slug=agentbub" />][buymecoffee]
-
 
 [website]: https://agentbub.dev
 [aspwebsite]: https://shadowdevs.com

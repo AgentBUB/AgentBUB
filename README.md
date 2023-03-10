@@ -12,7 +12,7 @@
 - 🌱 I’m currently learning more about front and backend web development.
 - 👨‍💻 All of my projects will be available at [agentbub.dev][website].
 - 👯 Both [Shadow Development][sdpartner] and me are always looking for new partners, associates, and friends!
-- 🥅 2022 Goals: Better my web development skills and grow my company.
+- 🥅 2023 Goals: Expand my business's reach and continue to expand my experience.
 - 📫 How to reach me: [contact me on my website][website] or use social media.
 - ⚡ Fun fact: I have been developing since 2017, but back then it was Roblox, haha.
 

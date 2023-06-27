@@ -53,9 +53,8 @@
 [![](https://img.shields.io/badge/DISCORD-7289DA?style=for-the-badge&logo=DISCORD&logoColor=white)&nbsp;][discord]
 
 ### Languages and Tools I'm Learning/Want to Learn:
-[![](https://img.shields.io/badge/VUEJS-75FACA?style=for-the-badge&logo=VUEJS&logoColor=white)&nbsp;][VUE]
+[![](https://img.shields.io/badge/SVELTE-FF3E00?style=for-the-badge&logo=SVELTE&logoColor=white)&nbsp;][SVELTE]
 [![](https://img.shields.io/badge/react-6FA9FE?style=for-the-badge&logo=react&logoColor=white)&nbsp;][REACT]
-[![](https://img.shields.io/badge/unreal-979EAA?style=for-the-badge&logo=unreal&logoColor=white)&nbsp;][UNREAL]
 
 ---
 
@@ -110,3 +109,4 @@
 [UNREAL]: https://unrealengine.com/
 [WINDOWS]: https://www.microsoft.com/en-us/windows
 [MARKDOWN]: https://www.markdownguide.org/
+[SVELTE]: https://svelte.dev/

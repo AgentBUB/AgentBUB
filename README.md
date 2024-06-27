@@ -45,12 +45,12 @@
 [![](https://img.shields.io/badge/DISCORD-7289DA?style=for-the-badge&logo=DISCORD&logoColor=white)&nbsp;][discord]
 [![](https://img.shields.io/badge/PHP-8B008B?style=for-the-badge&logo=PHP&logoColor=white)&nbsp;][PHP]
 [![](https://img.shields.io/badge/SVELTEKIT-FF3E00?style=for-the-badge&logo=SVELTE&logoColor=white)&nbsp;][SVELTEKIT]
+[![](https://img.shields.io/badge/Mongodb-118D4D?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;][MONGODB]
 
 ### Languages and Tools I'm Learning:
 [![](https://img.shields.io/badge/SVELTE-FF3E00?style=for-the-badge&logo=SVELTE&logoColor=white)&nbsp;][SVELTE]
 [![](https://img.shields.io/badge/Linux-d94100?style=for-the-badge&logo=linux&logoColor=white)&nbsp;][LINUX]
 [![](https://img.shields.io/badge/git-F6A22A?style=for-the-badge&logo=git&logoColor=white)&nbsp;][GIT]
-[![](https://img.shields.io/badge/Mongodb-118D4D?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;][MONGODB]
 [![](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;][MYSQL]
 
 ---

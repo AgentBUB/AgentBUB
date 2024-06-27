@@ -101,6 +101,6 @@
 [WINDOWS]: https://www.microsoft.com/en-us/windows
 [MARKDOWN]: https://www.markdownguide.org/
 [SVELTE]: https://svelte.dev/
-[SVELTE]: https://kit.svelte.dev/
+[SVELTEKIT]: https://kit.svelte.dev/
 [twitter]: https://twitter.com/Agent_BUB
 [MONGODB]: https://www.mongodb.com/

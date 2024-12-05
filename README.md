@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zach, or <a href="https://agentbub.dev">Agent BUB</a></h1>
-<h3 align="center">A passionate full-stack developer, freelancer, and entrepreneur!</h3>
+<h3 align="center">A passionate full-stack developer!</h3>
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=agentbub&label=Profile%20views&color=red&style=flat-square" alt="Agent BUB's Visits" />
@@ -12,7 +12,7 @@
 - 🌱 I’m currently learning more about front and backend web development.
 - 👨‍💻 All of my projects will be available at [agentbub.dev][website], [shadowdevs.com][sdwebsite], or here on Github.
 - 👯 Both [Shadow Development][sdpartner] and me are always looking for new partners, associates, and friends!
-- 🥅 2024 Goals: Continue to build projects and secure myself a solid job.
+- 🥅 2025 Goals: Push myself within the job I get to gain experience within my career field.
 - 📫 How to reach me: [contact me on my website][website] or use social media.
 - ⚡ Fun fact: I have been developing since 2017, but back then it was Roblox, haha.
 
@@ -22,7 +22,7 @@
 
 [<img align="left" alt="agentbub.dev" height="30" width="40" src="https://raw.githubusercontent.com/AgentBUB/AgentBUB/main/src/images/website.svg" />][website]
 [<img align="left" alt="Agent BUB | Discord" height="30" width="40" src="https://raw.githubusercontent.com/AgentBUB/AgentBUB/main/src/images/discord.svg" />][discord]
-[<img align="left" alt="Agent BUB | Stackoverflow" height="30" width="40" src="https://raw.githubusercontent.com/AgentBUB/AgentBUB/main/src/images/stack-overflow.svg" />][stackoverflow]
+[<img align="left" alt="Agent BUB | LinkedIn" height="30" width="40" src="https://raw.githubusercontent.com/AgentBUB/AgentBUB/main/src/images/linked-in-alt.svg" />][linkedin]
 [<img align="left" alt="Agent BUB | Email" height="30" width="40" src="https://raw.githubusercontent.com/AgentBUB/AgentBUB/main/src/images/email.svg" />][email]
 [<img align="left" alt="Agent BUB | Twitter" height="30" width="40" src="https://raw.githubusercontent.com/AgentBUB/AgentBUB/main/src/images/twitter.svg" />][twitter]
 
@@ -46,12 +46,13 @@
 [![](https://img.shields.io/badge/PHP-8B008B?style=for-the-badge&logo=PHP&logoColor=white)&nbsp;][PHP]
 [![](https://img.shields.io/badge/SVELTEKIT-FF3E00?style=for-the-badge&logo=SVELTE&logoColor=white)&nbsp;][SVELTEKIT]
 [![](https://img.shields.io/badge/Mongodb-118D4D?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;][MONGODB]
+[![](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;][MYSQL]
+[![](https://img.shields.io/badge/SVELTE-FF3E00?style=for-the-badge&logo=SVELTE&logoColor=white)&nbsp;][SVELTE]
 
 ### Languages and Tools I'm Learning:
-[![](https://img.shields.io/badge/SVELTE-FF3E00?style=for-the-badge&logo=SVELTE&logoColor=white)&nbsp;][SVELTE]
 [![](https://img.shields.io/badge/Linux-d94100?style=for-the-badge&logo=linux&logoColor=white)&nbsp;][LINUX]
 [![](https://img.shields.io/badge/git-F6A22A?style=for-the-badge&logo=git&logoColor=white)&nbsp;][GIT]
-[![](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;][MYSQL]
+[![](https://img.shields.io/badge/react-5ED5F6?style=for-the-badge&logo=react&logoColor=white)&nbsp;][REACT]
 
 ---
 
@@ -77,6 +78,7 @@
 [discord]: https://discord.gg/shadowdevs
 [sdpartner]: https://discord.shadowdevs.com
 [gitsponsor]: https://github.com/sponsors/AgentBUB
+[linkedin]: https://www.linkedin.com/in/agentbub
 [buymecoffee]: https://www.buymeacoffee.com/agentbub
 [asppartner]: https://shadowdevs.com/partners
 [email]: mailto:me@agentbub.dev
@@ -104,3 +106,4 @@
 [SVELTEKIT]: https://kit.svelte.dev/
 [twitter]: https://twitter.com/Agent_BUB
 [MONGODB]: https://www.mongodb.com/
+[REACT]: https://react.dev/

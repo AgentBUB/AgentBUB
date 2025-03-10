@@ -53,6 +53,8 @@
 [![](https://img.shields.io/badge/Linux-d94100?style=for-the-badge&logo=linux&logoColor=white)&nbsp;][LINUX]
 [![](https://img.shields.io/badge/git-F6A22A?style=for-the-badge&logo=git&logoColor=white)&nbsp;][GIT]
 [![](https://img.shields.io/badge/react-5ED5F6?style=for-the-badge&logo=react&logoColor=white)&nbsp;][REACT]
+[![](https://img.shields.io/badge/laravel-FF3427?style=for-the-badge&logo=laravel&logoColor=white)&nbsp;][LARAVEl]
+[![](https://img.shields.io/badge/filament-F49E0B?style=for-the-badge&logo=filament&logoColor=white)&nbsp;][FILAMENT]
 
 ---
 
@@ -107,3 +109,5 @@
 [twitter]: https://twitter.com/Agent_BUB
 [MONGODB]: https://www.mongodb.com/
 [REACT]: https://react.dev/
+[LARAVEL]: https://laravel.com/
+[FILAMENT]: https://filamentphp.com/

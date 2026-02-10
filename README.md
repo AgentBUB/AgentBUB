@@ -3,17 +3,17 @@
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=agentbub&label=Profile%20views&color=red&style=flat-square" alt="Agent BUB's Visits" />
-<a href="https://agentbub.dev" target="_blank"><img src="https://img.shields.io/website?down_color=red&down_message=Offline&label=My%20Site&style=flat-square&up_color=brightgreen&up_message=Online&url=https%3A%2F%2Fagentbub.dev" alt="Website Staus" /></a>
-<a href="https://shadowdevs.com" target="_blank"><img src="https://img.shields.io/website?down_color=red&down_message=Offline&label=Company%20Site&style=flat-square&up_color=brightgreen&up_message=Online&url=https%3A%2F%2Fshadowdevs.com" alt="CompanyWebsiteStatus" /></a>
+<a href="https://agentbub.dev" target="_blank"><img src="https://img.shields.io/website?down_color=red&down_message=Offline&label=agentbub.dev&style=flat-square&up_color=brightgreen&up_message=Online&url=https%3A%2F%2Fagentbub.dev" alt="Website Staus" /></a>
+<a href="https://shadowdevs.com" target="_blank"><img src="https://img.shields.io/website?down_color=red&down_message=Offline&label=shadowdevs.com&style=flat-square&up_color=brightgreen&up_message=Online&url=https%3A%2F%2Fshadowdevs.com" alt="CompanyWebsiteStatus" /></a>
 <a href="https://shadowdevs.com/discord" target="_blank"><img src="https://img.shields.io/discord/352577622103949312?color=blue&label=Discord&style=flat-square" alt="Discord Staus" /></a>
 </p>
 
-- 🔭 I am working hard to make my way as a [freelance developer][website] and building [my company][sdwebsite]!
-- 🌱 I’m currently learning more about front and backend web development.
-- 👨‍💻 All of my projects will be available at [agentbub.dev][website], [shadowdevs.com][sdwebsite], or here on Github.
-- 👯 Both [Shadow Development][sdpartner] and me are always looking for new partners, associates, and friends!
-- 🥅 2026 Goals: Gain experience within my career field and expand my abilities.
-- 📫 How to reach me: [contact me on my website][website] or use social media.
+- 🔭 I am working hard to make my way as a [freelance developer](https://agentbub.dev) and building [my company](https://shadowdevs.com)!
+- 🌱 I’m currently learning more about UI/UX and 3rd Party API integrations.
+- 👨‍💻 All of my projects will be available at [agentbub.dev](https://agentbub.dev/projects), [shadowdevs.com](https://shadowdevs.com/store), or here on Github.
+- 👯 Both [Shadow Development](https://shadowdevs.com/partners/become) and me are always looking for new partners, associates, and friends!
+- 🥅 2026 Goals: Gain experience within my career field and expand my network.
+- 📫 How to reach me: [contact me on my website](https://agentbub.dev/contact) or use social media.
 - ⚡ Fun fact: I have been developing since 2017, but back then it was Roblox, haha.
 
 ---
@@ -24,7 +24,6 @@
 [<img align="left" alt="Agent BUB | Discord" height="30" width="40" src="https://raw.githubusercontent.com/AgentBUB/AgentBUB/main/src/images/discord.svg" />][discord]
 [<img align="left" alt="Agent BUB | LinkedIn" height="30" width="40" src="https://raw.githubusercontent.com/AgentBUB/AgentBUB/main/src/images/linked-in-alt.svg" />][linkedin]
 [<img align="left" alt="Agent BUB | Email" height="30" width="40" src="https://raw.githubusercontent.com/AgentBUB/AgentBUB/main/src/images/email.svg" />][email]
-[<img align="left" alt="Agent BUB | Twitter" height="30" width="40" src="https://raw.githubusercontent.com/AgentBUB/AgentBUB/main/src/images/twitter.svg" />][twitter]
 
 <br />
 
@@ -73,16 +72,13 @@
 ---
 
 ### 💹 Support Me:
-[![image](https://user-images.githubusercontent.com/46576969/179379693-60756c50-68a1-41b4-89a7-bdf29a4b810f.png)][gitsponsor]
+<!-- [![image](https://user-images.githubusercontent.com/46576969/179379693-60756c50-68a1-41b4-89a7-bdf29a4b810f.png)][gitsponsor] -->
+If you want to help support me, feel free to [buy something from my store](https://shadowdevs.com/store) or [reach out to me about a commission/donation](https://agentbub.dev/contact)!
 
 [website]: https://agentbub.dev
-[sdwebsite]: https://shadowdevs.com
 [discord]: https://discord.gg/shadowdevs
-[sdpartner]: https://discord.shadowdevs.com
 [gitsponsor]: https://github.com/sponsors/AgentBUB
 [linkedin]: https://www.linkedin.com/in/agentbub
-[buymecoffee]: https://www.buymeacoffee.com/agentbub
-[asppartner]: https://shadowdevs.com/partners
 [email]: mailto:me@agentbub.dev
 [stackoverflow]: https://stackoverflow.com/users/16256504/agent-bub
 [HTML]: https://www.google.com/search?q=html

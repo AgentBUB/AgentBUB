@@ -12,7 +12,7 @@
 - 🌱 I’m currently learning more about front and backend web development.
 - 👨‍💻 All of my projects will be available at [agentbub.dev][website], [shadowdevs.com][sdwebsite], or here on Github.
 - 👯 Both [Shadow Development][sdpartner] and me are always looking for new partners, associates, and friends!
-- 🥅 2025 Goals: Push myself within the job I get to gain experience within my career field.
+- 🥅 2026 Goals: Gain experience within my career field and expand my abilities.
 - 📫 How to reach me: [contact me on my website][website] or use social media.
 - ⚡ Fun fact: I have been developing since 2017, but back then it was Roblox, haha.
 
@@ -62,13 +62,13 @@
 
 <p align="left">
 <a href="#">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AgentBUB&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AgentBUB&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
 </a>
 </p>
 
 ### ⏲ Wakatime Stats
 
-<p>&nbsp;<a href="https://wakatime.com/@agentbub" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=agentbub&layout=compact&theme=react" alt="Agent BUB's Wakatime Stats" /></a></p>
+<p>&nbsp;<a href="https://wakatime.com/@agentbub" target="_blank"><a href="https://wakatime.com"><img height="500" src="https://wakatime.com/share/@agentbub/a5dc0e16-2c9b-4433-a993-50821e9d56b6.png" /></a></a></p>
 
 ---
 

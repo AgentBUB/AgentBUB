@@ -72,8 +72,10 @@
 ---
 
 ### 💹 Support Me:
-<!-- [![image](https://user-images.githubusercontent.com/46576969/179379693-60756c50-68a1-41b4-89a7-bdf29a4b810f.png)][gitsponsor] -->
-If you want to help support me, feel free to [buy something from my store](https://shadowdevs.com/store) or [reach out to me about a commission/donation](https://agentbub.dev/contact)!
+
+*If you want to help support me, feel free to [buy something from my store](https://shadowdevs.com/store), [reach out to me about a commission/donation](https://agentbub.dev/contact), or use [Github sponsors][gitsponsor]!*
+
+[![image](https://user-images.githubusercontent.com/46576969/179379693-60756c50-68a1-41b4-89a7-bdf29a4b810f.png)][gitsponsor]
 
 [website]: https://agentbub.dev
 [discord]: https://discord.gg/shadowdevs

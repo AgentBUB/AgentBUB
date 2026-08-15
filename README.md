@@ -78,7 +78,7 @@
 [![image](https://user-images.githubusercontent.com/46576969/179379693-60756c50-68a1-41b4-89a7-bdf29a4b810f.png)][gitsponsor]
 
 [website]: https://agentbub.dev
-[discord]: https://discord.gg/shadowdevs
+[discord]: https://discord.gg/fVrRa8z
 [gitsponsor]: https://github.com/sponsors/AgentBUB
 [linkedin]: https://www.linkedin.com/in/agentbub
 [email]: mailto:me@agentbub.dev
